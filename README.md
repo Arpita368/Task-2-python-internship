@@ -40,23 +40,23 @@ Make sure you have Python installed.
 python todo.py
 
 ## SAMPLE OUTPUT:
-MENU 
+'''MENU 
 1. Add Task 
 2. Remove Task 
 3. View Tasks 
 4. Save tasks and Close the app
 Enter a number: 1
 Enter your task: Finish work presentation
-Task added in the list
+Task added in the list'''
 
-MENU 
+'''MENU 
 1. Add Task 
 2. Remove Task 
 3. View Tasks 
 4. Save tasks and Close the app
 Enter a number: 1
 Enter your task: Pay utility bills
-Task added in the list
+Task added in the list'''
 
 MENU 
 1. Add Task 
