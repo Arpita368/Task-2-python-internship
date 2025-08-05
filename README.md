@@ -122,6 +122,11 @@ MENU
 Enter a number: 4
 Tasks saved to 'to_do_list.txt'. Closing the application.
 
+## Outputs saved in to_do_list.txt
+1. Finish work presentation
+2. Pay utility bills
+3. Submit project report
+   
 ## Author 
 Created by Arpita Jitendra Sonparote
 
