@@ -39,7 +39,7 @@ Make sure you have Python installed.
 3. Run the script:
 python todo.py
 
-# SAMPLE OUTPUT:
+## SAMPLE OUTPUT:
 MENU 
 1. Add Task 
 2. Remove Task 
